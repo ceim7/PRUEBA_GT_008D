@@ -356,3 +356,5 @@ if puntaje_max == punt_eq5:
    print("El equipo ",nom_eq5, " es el Campeon ")
 if puntaje_max == punt_eq6:
    print("El equipo ",nom_eq6, " es el Campeon ")
+
+#aguanet colo colo xuxetamreeeeeeeeeEE
